@@ -1,0 +1,5 @@
+# For exclusion from Git/Hub
+
+__pycache__
+dead
+simco_curses.py
