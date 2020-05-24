@@ -2,4 +2,4 @@
 
 __pycache__
 dead
-simco_curses.py
+*.py.swp
