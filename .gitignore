@@ -1,5 +1,9 @@
-# For exclusion from Git/Hub
-
 __pycache__
 dead
-simco_curses.py
+.gitignore
+*.py#
+*.pkl
+*.swp
+ref_*
+dev_*
+SimCoDataMiner*
