@@ -1,5 +1,9 @@
-# For exclusion from Git/Hub
-
 __pycache__
 dead
-*.py.swp
+.gitignore
+*.py#
+*.pkl
+*.swp
+ref_*
+dev_*
+SimCoDataMiner*
